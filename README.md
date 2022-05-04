@@ -1,4 +1,4 @@
-# OOAD-Project-
+# Apartment Java App
 Apartment/Society Management System
 
 **Steps to Run**:
