@@ -13,3 +13,8 @@ Apartment/Society Management System
 7)Run the application using the Run Button on top or by right Clicking on the main project foldr in the project explorer section.
 
 NOTE: sql serer runs on port 3306 by default , if its running on a different port please change the port number in the Datacontext.java file as well
+
+Team Members :
+Shardul Pande - 01FB16ECS353
+Rakshitha
+Yashaswini
