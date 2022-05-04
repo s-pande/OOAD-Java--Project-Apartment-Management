@@ -10,7 +10,7 @@ Apartment/Society Management System
    Build Path ==> Add External JARs and attach the mysql-connector-java-8.0.29.jar . Once that is done you can see this file in      the refrenced Libraries Section in the Project Explorer.
 5) Open the Datacontext.java file and put in your Mysql user name and password in the line:
      **DriverManager.getConnection("jdbc:mysql://localhost:3306/apartmentsociety", "enterusername", "enterpassword");**
-7)Run the application using the Run Button on top or by right Clicking on the main project foldr in the project explorer section.
+6) Run the application using the Run Button on top or by right Clicking on the main project foldr in the project explorer section.
 
 NOTE: sql serer runs on port 3306 by default , if its running on a different port please change the port number in the Datacontext.java file as well
 
