@@ -1,0 +1,11 @@
+1) CREATE TABLE flatinfo( FlatId varchar(255), OwnerName varchar(255) , Description varchar(255), FlatLocation varchar(255), IntercomeNumber varchar(255) , RentCost varchar(255) );
+
+2) CREATE TABLE billsinfo( BillId varchar(255), ElectricBill varchar(255) , WaterBill varchar(255), TelephoneBill varchar(255), OthersBill varchar(255) , Month varchar(255) , Year varchar(255), FlatId varchar(255) );
+
+3) create table adminlogin ( UserName varchar(255) , Password varchar(255));
+
+4) create table membersinfo (MemberId varchar(255), Name varchar(255), Email varchar(255) , PermanentAddress varchar(255), Phone varchar(255),Occupation varchar(255), FamilyId varchar(255) );
+
+5) create table familyinfo (FamilyId varchar(255), HeadofFamily varchar(255), NumberofMembers varchar(255) , StayofTime varchar(255), FlatId varchar(255) );
+
+6) insert into adminlogin values ( "enterusername" , "enterpass" );
